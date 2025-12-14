@@ -1,0 +1,7 @@
+a, p, d, b = "12/2/27", "12/4/25", "12/11/12", "12/8/21"
+
+print("ashok =", a)
+print("priya =", p)
+print("diya =", d)
+print("aryan =", b)
+
